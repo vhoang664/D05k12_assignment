@@ -1,0 +1,3 @@
+1, Nguyễn văn A, BTECD05K12, Hà nội
+2, Nguyễn văn B, BTECD05K12, Hải Phòng
+3, Nguyễn văn C, BTECD05K12, Hồ Chí Minh
